@@ -16,7 +16,6 @@ For more information on the return of Cappuccino, please join our [discord](http
 - [3008](https://www.roblox.com/games/2768379856) | [Showcase video](https://www.youtube.com/watch?v=K7GZ8P8pN68)
 - [Bulwark](https://www.roblox.com/games/6168898345)
 - [Build A Boat For Treasure](https://www.roblox.com/games/537413528)
-- [Iron Man Battlegrounds](https://www.roblox.com/games/5890606049)
 - ~~[Iron man simulator 2](https://www.roblox.com/games/6097258548)~~
 
 # FAQ
