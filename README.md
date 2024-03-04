@@ -1,6 +1,7 @@
  # Welcome to Cappuccino v7 linkvertise version!
 
 ![Project Logo](https://github.com/CappuccinoHost/Cappuccino-v7-source-code/blob/main/assets/logo.png?raw=true)
+![Static Badge](https://img.shields.io/badge/status-discontinued-blue?color=rgb(200%2C%2080%2C%2080)) ![GitHub Downloads (all assets, all releases)](https://img.shields.io/github/downloads/CappuccinoHost/Cappuccino-v7-source-code/total)
 
 Cappuccino was a well-known paid script in [Iron Man Simulator](https://www.roblox.com/games/1735775055/Iron-Man-Simulator) for its overpowered features.
 However, due to Synapse X partnering with Roblox, we will no longer be continuing this version of Cappuccino.
