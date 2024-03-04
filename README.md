@@ -12,5 +12,6 @@ For more information on the return of Cappuccino, please join our [discord](http
 - ~~[Iron man simulator 2](https://www.roblox.com/games/6097258548)~~
 
 ## Contributing
-We welcome any and all contributions that would make this project better.
-If you'd like to modify our source code and release your changes, please fork the repository.
+We only accept and support contributions in the form of forks and credits.
+If you intend to alter our source code and share your modifications, kindly create a fork of the repository.
+If you prefer not to fork but instead give credit, please ensure you include at least one of the following: Our repository, the name of the project (Cappuccino-v7), or our Discord.
