@@ -13,4 +13,4 @@ For more information on the return of Cappuccino, please join our [discord](http
 
 ## Contributing
 We welcome any and all contributions that would make this project better.
-if you'd like to modify our source code and release your changes, please fork the repository.
+If you'd like to modify our source code and release your changes, please fork the repository.
