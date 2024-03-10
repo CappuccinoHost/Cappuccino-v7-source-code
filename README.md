@@ -1,5 +1,7 @@
 <div align=center>
-  <img style="height:300px" src="https://github.com/CappuccinoHost/Cappuccino-v7-source-code/blob/main/assets/logo.png?raw=true"></img>
+  <a href="https://discord.gg/U2u29MEVZs">
+    <img style="height:300px" src="https://github.com/CappuccinoHost/Cappuccino-v7-source-code/blob/main/assets/logo.png?raw=true">
+  </a>
 
   <a href="https://discord.gg/U2u29MEVZs"><img style="height:35px" src="https://logodownload.org/wp-content/uploads/2017/11/discord-logo-1-1.png"></a> <img style="height:15px" src="https://i.imgur.com/WK2E3E8.png"><a href="https://www.youtube.com/@pablopicasso4934"><img style="height:35px" src="https://www.pinclipart.com/picdir/big/530-5305994_icon-youtube-logo-png-clipart.png"></a> 
   
