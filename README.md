@@ -46,6 +46,13 @@ If you prefer not to fork but instead give credit, please ensure you include at 
 
 ---
 
+### Community forks
+> These are continued or fixed Cappuccino versions from our community.
+
+- ``No forks yet``
+
+---
+
 ### Links
 
 - [Discord](https://discord.gg/U2u29MEVZs)
