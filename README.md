@@ -28,17 +28,28 @@ For more information on the return of Cappuccino, please join our [discord](http
 
 <div align=center>
 <kbd>
+
   <h1>3008</h1>
-  <img style="width:80%" src="https://tr.rbxcdn.com/4fd95459f6c334673a4c0749ce79b1bb/768/432/Image/Png"></img>
+
+  <a href="https://www.roblox.com/games/2768379856">
+    <img style="width:80%" src="https://tr.rbxcdn.com/4fd95459f6c334673a4c0749ce79b1bb/768/432/Image/Png"></img>
+  </a>
 
   <h1>Bulwark</h1>
-  <img style="width:80%" src="https://tr.rbxcdn.com/b4ca75c2c77d08205926351e4844036b/768/432/Image/Png"></img>
+  <a href="https://www.roblox.com/games/6168898345">
+    <img style="width:80%" src="https://tr.rbxcdn.com/b4ca75c2c77d08205926351e4844036b/768/432/Image/Png"></img>
+  </a>
 
   <h1>Build A Boat For Treasure</h1>
-  <img style="width:80%" src="https://tr.rbxcdn.com/02c134bc3c375c493e1a130cdf61b9be/768/432/Image/Png"></img>
+  <a href="https://www.roblox.com/games/537413528">
+    <img style="width:80%" src="https://tr.rbxcdn.com/02c134bc3c375c493e1a130cdf61b9be/768/432/Image/Png"></img>
+  </a>
 
   <h1>Iron Man Simulator 2 (REMOVED FROM OPEN SOURCE VERSION)</h1>
-  <img style="width:80%" src="https://tr.rbxcdn.com/fbc848b0febdf9a9350622cc39a151f6/768/432/Image/Png"></img>
+  <a href="https://www.roblox.com/games/6097258548">
+    <img style="width:80%" src="https://tr.rbxcdn.com/fbc848b0febdf9a9350622cc39a151f6/768/432/Image/Png"></img>
+  </a>
+
 </kbd>
 </div>
 
