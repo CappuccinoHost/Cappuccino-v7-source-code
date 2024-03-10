@@ -13,6 +13,13 @@ For more information on the return of Cappuccino, please join our [discord](http
 
 ---
 
+### Community forks
+>  These are continued or fixed Capuccino forks from our community.
+
+- ``No forks yet``
+
+---
+
 ### File redirection
 - [Cappuccino v7 linkvertise](source.lua)
 - [Cappuccino v7 Lore game (unfinished)](unfinished/lore-game/source.lua)
@@ -43,13 +50,9 @@ For more information on the return of Cappuccino, please join our [discord](http
 We only accept and support contributions in the form of forks and credits.
 If you intend to alter our source code and share your modifications, kindly create a fork of the repository.
 If you prefer not to fork but instead give credit, please ensure you include at least one of the following: Our repository, the name of the project (Cappuccino-v7), or our Discord.
-
----
-
-### Community forks
-> These are continued or fixed Cappuccino versions from our community.
-
-- ``No forks yet``
+<div align=center>
+  <img style="width:100%" src="https://files.catbox.moe/6nuzlo.jpg"></img>
+</div>
 
 ---
 
