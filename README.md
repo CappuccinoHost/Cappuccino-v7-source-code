@@ -71,7 +71,7 @@ For more information on the return of Cappuccino, please join our [discord](http
 
 ## Contributing
 
-We only accept and support contributions in the form of forks and credits.
+We only accept and support contributions in the form of forks and crediting.
 If you intend to alter our source code and share your modifications, kindly create a fork of the repository.
 If you prefer not to fork but instead give credit, please ensure you include at least one of the following: Our repository, the name of the project (Cappuccino-v7), or our Discord.
 <div align=center>
