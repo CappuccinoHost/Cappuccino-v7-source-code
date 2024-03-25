@@ -5,7 +5,8 @@
 
   <a href="https://discord.gg/U2u29MEVZs"><img style="height:35px" src="https://logodownload.org/wp-content/uploads/2017/11/discord-logo-1-1.png"></a> <img style="height:15px" src="https://i.imgur.com/WK2E3E8.png"><a href="https://www.youtube.com/@pablopicasso4934"><img style="height:35px" src="https://www.pinclipart.com/picdir/big/530-5305994_icon-youtube-logo-png-clipart.png"></a> 
   
-  ![Static Badge](https://img.shields.io/badge/status-discontinued-blue?color=rgb(200%2C%2080%2C%2080)) ![GitHub Downloads (all assets, all releases)](https://img.shields.io/github/downloads/CappuccinoHost/Cappuccino-v7-source-code/total) ![GitHub forks](https://img.shields.io/github/forks/CappuccinoHost/Cappuccino-v7-source-code?style=flat)
+  ![Static Badge](https://img.shields.io/badge/status-discontinued-blue?color=rgb(200%2C%2080%2C%2080)) ![GitHub Downloads (all assets, all releases)](https://img.shields.io/github/downloads/CappuccinoHost/Cappuccino-v7-source-code/total) ![GitHub forks](https://img.shields.io/github/forks/CappuccinoHost/Cappuccino-v7-source-code?style=flat) ![Discord](https://img.shields.io/discord/683692238655717397?label=discord
+)
 </div>
 
 ## Information
