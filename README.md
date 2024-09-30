@@ -40,7 +40,7 @@ For more information on the return of Cappuccino, please join our [discord](http
 
   <h1>Bulwark</h1>
   <a href="https://www.roblox.com/games/6168898345">
-    <img style="width:80%" src="https://tr.rbxcdn.com/b4ca75c2c77d08205926351e4844036b/768/432/Image/Png"></img>
+    <img style="width:80%" src="https://tr.rbxcdn.com/da82b5b6d15209ad3ad1faf5a6f41414/768/432/Image/Webp"></img>
   </a>
 
   <h1>Build A Boat For Treasure</h1>
